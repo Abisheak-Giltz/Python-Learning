@@ -1,9 +1,11 @@
 # While loop
 
+
+# addition loop from 1 to 50
 add = 0
 count = 0
 
-while count <= 50 : # addition loop from 1 to 50
+while count <= 50 :
     add += count
     count += 1
 
