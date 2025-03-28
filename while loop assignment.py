@@ -12,7 +12,7 @@ print(add)
 
 
 
-# Count no. of digits in the given number
+# Count no. of digits in the given Input
 
 word = input("Enter numbers to count digits: ")
 digits = 0
